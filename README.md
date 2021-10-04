@@ -1,4 +1,4 @@
-## No vean mi codigo horrible pls 
+## No vean mi codigo horrible pls :sob:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rartigues)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
