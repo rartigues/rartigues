@@ -1,4 +1,4 @@
-## No vean mi codigo horrible pls :sob:
+<!--## No vean mi codigo horrible pls :sob:-->
 
 
 De a poquito iran subiendo estos numeros :smiling_imp:
