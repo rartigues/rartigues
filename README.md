@@ -1,5 +1,4 @@
 <!--## No vean mi codigo horrible pls :sob:-->
-<br /> 
 <h2> Bienvenid@ a mi perfil! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 <p> Me llamo Roberto Artigues, soy principalmente desarrollador backend y en otros momentos también estudiante en la Universidad de Concepción 🚀 </p> 
 
